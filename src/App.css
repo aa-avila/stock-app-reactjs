@@ -13,6 +13,12 @@
   margin-left: auto;
   margin-right: auto;
 }
+.button-bar {
+  background-color: aqua;
+  height: 4rem;
+}
+
+/* PRODUCTS LIST */
 .search-bar {
   background-color: rgb(153, 153, 153);
   height: 4rem;
@@ -21,7 +27,15 @@
   background-color: bisque;
   flex-grow: 1;
 }
-.button-bar {
-  background-color: aqua;
-  height: 4rem;
+
+/* PRODUCT DETAIL */
+.product-detail-cont {
+  background-color: bisque;
+  flex-grow: 1;
+}
+
+/* PRODUCT FORM */
+.product-form-cont {
+  background-color: bisque;
+  flex-grow: 1;
 }
