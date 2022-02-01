@@ -1,0 +1,26 @@
+.header {
+  width: 100%;
+  background-color: #6200ef;
+}
+
+.innerContainer {
+  max-width: 1200px;
+  height: 3.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  background-color: #ffffff;
+  width: 3.5rem;
+  margin-left: 0.5rem;
+}
+
+.pageTitle {
+  margin-right: 1.5rem;
+  color: #ffffff;
+}
