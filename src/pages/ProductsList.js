@@ -1,3 +1,4 @@
+import ProdListMain from '../components/ProductsList/ProdListMain';
 import TextField from '@mui/material/TextField';
 import IconButton from '@mui/material/IconButton';
 import SearchIcon from '@mui/icons-material/Search';
@@ -20,7 +21,9 @@ function ProductsList() {
           }}
         />
       </section>
-      <section className="products-list">List</section>
+      <section className="products-list">
+        <ProdListMain />
+      </section>
       <section className="button-bar">
         <IconButton
           aria-label="Agregar producto"
