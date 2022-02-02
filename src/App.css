@@ -24,8 +24,10 @@
   padding-bottom: 0.5rem;
 }
 .products-list {
-  background-color: bisque;
-  flex-grow: 1;
+  margin: 0;
+  padding: 0;
+  height: calc(100vh - 12.5rem);
+  overflow: auto;
 }
 
 /* PRODUCT DETAIL */

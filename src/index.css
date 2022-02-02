@@ -2,7 +2,7 @@
   box-sizing: border-box;
   border: 1px;
   border-color: rgb(75, 75, 75);
-  border-style: solid;
+  /* border-style: solid; */
 }
 html,
 body {
