@@ -14,14 +14,14 @@
   margin-right: auto;
 }
 .button-bar {
-  background-color: aqua;
-  height: 4rem;
+  padding-top: 0.5rem;
+  display: flex;
+  justify-content: space-around;
 }
 
 /* PRODUCTS LIST */
 .search-bar {
-  /* background-color: rgb(153, 153, 153); */
-  height: 4rem;
+  padding-bottom: 0.5rem;
 }
 .products-list {
   background-color: bisque;
