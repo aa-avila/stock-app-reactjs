@@ -1,5 +1,5 @@
 import ProdItem from './ProdItem';
-import data from './dummyData';
+import data from '../../dummyData';
 
 function ProdListMain() {
   return (

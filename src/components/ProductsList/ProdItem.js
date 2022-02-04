@@ -7,7 +7,7 @@ import CardActionArea from '@mui/material/CardActionArea';
 function ProdItem(props) {
   return (
     <Card
-      elevation={2}
+      elevation={3}
       sx={{
         display: 'flex',
         justifyContent: 'space-between',

@@ -19,6 +19,7 @@ function ProductsList() {
               </IconButton>
             )
           }}
+          // sx={{ boxShadow: 3 }}
         />
       </section>
       <section className="products-list">
