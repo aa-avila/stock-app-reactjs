@@ -22,7 +22,7 @@ function ProdItem(props) {
           justifyContent: 'flex-start'
         }}
       >
-        <ProdImg img={props.img} />
+        <ProdImg img={props.thumb} />
         <ProdInfo title={props.title} price={props.price} stock={props.stock} />
       </CardActionArea>
       <ProdBtns />
