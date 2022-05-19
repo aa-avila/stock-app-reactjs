@@ -1,7 +1,8 @@
 const data = [
   {
     id: 'a1',
-    img: 'https://www.lettoysbetoys.org.uk/wp-content/uploads/2016/10/Sausage-dog.jpg',
+    thumb: 'https://i.imgur.com/qcxQcJ6s.jpg',
+    img: 'https://i.imgur.com/qcxQcJ6m.jpg',
     title: 'Perro de lana',
     description:
       'Peluche de perro salchicha con gorro de navidad. Tejido a mano.',
@@ -10,7 +11,8 @@ const data = [
   },
   {
     id: 'a2',
-    img: 'https://jazwaresv2.s3.amazonaws.com/media/POKEMON_PIKACHU_OK.png',
+    thumb: 'https://i.imgur.com/RfZQziUs.jpg',
+    img: 'https://i.imgur.com/RfZQziUm.jpg',
     title: 'Picachu',
     description: 'Picachu feliz. Material: plastico.',
     price: 390,
@@ -18,7 +20,8 @@ const data = [
   },
   {
     id: 'a3',
-    img: 'https://m.media-amazon.com/images/I/51q2t2DUpaL._AC_SX425_.jpg',
+    thumb: 'https://i.imgur.com/3i85R2Bs.jpg',
+    img: 'https://i.imgur.com/3i85R2Bm.jpg',
     title: 'Zapatillas con ruedas',
     description: 'Calzado tipo tenis con ruedas rebatibles.',
     price: 3500,
@@ -26,7 +29,8 @@ const data = [
   },
   {
     id: 'a4',
-    img: 'https://99designs-start-attachments.imgix.net/alchemy-pictures/2017%2F02%2F23%2F05%2F08%2F47%2F50a95060-dc46-4d68-8e04-e70e046d60ef%2FInterior-book-hero04.png?auto=format&ch=Width%2CDPR&fm=png&w=945&h=550',
+    thumb: 'https://i.imgur.com/9PnljKJs.jpg',
+    img: 'https://i.imgur.com/9PnljKJm.jpg',
     title: 'Libro de autoayuda',
     description: 'Titulo: How to enjoy long walks on the beach.',
     price: 1450,
@@ -34,7 +38,8 @@ const data = [
   },
   {
     id: 'a5',
-    img: 'https://static.onecms.io/wp-content/uploads/sites/28/2021/10/20/travel-editor-favorite-shoes-lead-TRVLSHOES1021.jpg',
+    thumb: 'https://i.imgur.com/rFewDWAs.jpg',
+    img: 'https://i.imgur.com/rFewDWAm.jpg',
     title: 'Zapato formal',
     description: 'Calzado de vestir color negro brillante. Sin cordones.',
     price: 12700,
@@ -42,7 +47,8 @@ const data = [
   },
   {
     id: 'a6',
-    img: 'https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1610416577-vans-1610416571.jpg',
+    thumb: 'https://i.imgur.com/OLNBXcMs.jpg',
+    img: 'https://i.imgur.com/OLNBXcMm.jpg',
     title: 'Zapatillas informales',
     description: 'Calzado sport tipo skater. Replica Vans.',
     price: 4500,
@@ -50,7 +56,8 @@ const data = [
   },
   {
     id: 'a7',
-    img: 'https://media.istockphoto.com/photos/old-book-cover-vintage-leather-books-front-texture-white-isolated-picture-id636693922',
+    thumb: 'https://i.imgur.com/UxCAcnCs.jpg',
+    img: 'https://i.imgur.com/UxCAcnCm.jpg',
     title: 'Libro antiguo',
     description: 'Articulo de coleccion. Año estimado: 1850.',
     price: 54600,

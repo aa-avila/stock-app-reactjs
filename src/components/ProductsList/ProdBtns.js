@@ -5,7 +5,9 @@ import RemoveIcon from '@mui/icons-material/Remove';
 
 function ProdBtns(props) {
   return (
-    <CardActions sx={{ display: 'flex' }}>
+    <CardActions
+      sx={{ display: 'flex', alignItems: 'flex-end', paddingBottom: '1rem' }}
+    >
       <IconButton
         size="small"
         sx={{

@@ -12,7 +12,12 @@ function ProdInfo(props) {
       <Typography
         variant="subtitle2"
         component="div"
-        sx={{ display: 'flex', width: '11rem' }}
+        sx={{
+          display: 'flex',
+          width: '80%',
+          minWidth: '10rem',
+          maxWidth: '15rem'
+        }}
       >
         <Box sx={{ minWidth: '50%', marginRight: 1 }}>
           <span>Precio: </span>
